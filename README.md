@@ -53,4 +53,4 @@ This task simulates the work of a **Machine Learning Engineer**.
 
 *Output*
 <img width="790" height="298" alt="Image" src="https://github.com/user-attachments/assets/840f0127-751f-413c-88b6-f70f72b7f9ce" />
-<img width="566" height="101" alt="Image" src="https://github.com/user-attachments/assets/57276137-d109-4b26-b3df-9d68d39b41f8" />
+
