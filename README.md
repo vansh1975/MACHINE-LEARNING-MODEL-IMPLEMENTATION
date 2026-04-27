@@ -52,3 +52,5 @@ This task simulates the work of a **Machine Learning Engineer**.
 [cite_start]Your final submission includes a **Jupyter Notebook** that serves as a transparent record of your work[cite: 1]. [cite_start]It doesn't just show the code; it shows the **Evaluation** results, proving that the model is functional and capable of identifying spam with high precision[cite: 1]. You have successfully demonstrated the ability to move from raw data to a predictive AI solution.
 
 *Output*
+<img width="790" height="298" alt="Image" src="https://github.com/user-attachments/assets/840f0127-751f-413c-88b6-f70f72b7f9ce" />
+<img width="566" height="101" alt="Image" src="https://github.com/user-attachments/assets/57276137-d109-4b26-b3df-9d68d39b41f8" />
