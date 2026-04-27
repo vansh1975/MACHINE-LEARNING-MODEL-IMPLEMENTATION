@@ -49,7 +49,7 @@ This task simulates the work of a **Machine Learning Engineer**.
 * [cite_start]**Deployment**: By including a `while True` loop for custom input, you transformed your static model into a functional, interactive tool that can classify any message a user types in real-time[cite: 1].
 
 ## 4. Deliverables
-[cite_start]Your final submission includes a **Jupyter Notebook** that serves as a transparent record of your work[cite: 1]. [cite_start]It doesn't just show the code; it shows the **Evaluation** results, proving that the model is functional and capable of identifying spam with high precision[cite: 1]. You have successfully demonstrated the ability to move from raw data to a predictive AI solution.
+[cite_start]My final submission includes a **Jupyter Notebook** that serves as a transparent record of your work[cite: 1]. [cite_start]It doesn't just show the code; it shows the **Evaluation** results, proving that the model is functional and capable of identifying spam with high precision[cite: 1]. I have successfully demonstrated the ability to move from raw data to a predictive AI solution.
 
 *Output*
 <img width="800" height="106" alt="Image" src="https://github.com/user-attachments/assets/e999f751-e34f-41ae-afed-93de1cba59b3" />
